@@ -1,0 +1,44 @@
+/** @format */
+
+body {
+  background-color: black;
+}
+.square.red {
+  background-color: #f35322;
+  height: 100px;
+  width: 100px;
+  margin-left: 400px;
+  margin-top: 200px;
+}
+.square.green {
+  background-color: #81dc05;
+  height: 100px;
+  width: 100px;
+  margin-top: -100px;
+  margin-left: 510px;
+}
+.square.blue {
+  background-color: #05a6f1;
+  height: 100px;
+  width: 100px;
+  margin-left: 400px;
+  margin-top: 10px;
+}
+.square.yellow {
+  background-color: #ffba05;
+  height: 100px;
+  width: 100px;
+  margin-left: 510px;
+  margin-top: -100px;
+}
+h1 {
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.title {
+  width: 300px;
+  height: 300px;
+  margin-left: 630px;
+  margin-top: -270px;
+  font-size: 60px;
+}

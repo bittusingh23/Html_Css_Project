@@ -1,0 +1,35 @@
+body {
+  background-color: rgb(165, 211, 196);
+}
+.second {
+  background-color: rgb(73, 150, 212);
+  height: 550px;
+  width: 500px;
+  margin-left: 400px;
+  margin-top: 30px;
+  border-style: outset;
+  padding: 0;
+}
+.third {
+  background-color: rgb(25, 41, 77);
+  height: 480px;
+  width: 430px;
+  margin-left: 35px;
+  margin-top: 20px;
+  padding: 0;
+  border-style: outset;
+}
+.forth {
+  color: wheat;
+  height: 40px;
+  text-align: center;
+}
+h1 {
+  margin-top: 40px;
+}
+.email {
+  margin-left: 40px;
+  display: inline-block;
+  padding-bottom: 5px;
+  border-bottom: 1px solid black;
+}

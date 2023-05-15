@@ -1,0 +1,268 @@
+/** @format */
+
+.maidu {
+  height: 1000px;
+  width: 800px;
+  margin-left: 280px;
+  margin-top: -8px;
+  border-style: solid;
+  border-width: 5px 5px 5px 5px;
+  border-color: blue red goldenrod violet;
+  background-attachment: fixed;
+  background-size: cover;
+  overflow: auto;
+  background-repeat: no-repeat;
+  background-image: url("starfield-3840x2160-screenshot-4k-24438.jpeg");
+}
+#div1 {
+  height: 200px;
+  margin-top: -150px;
+  margin-left: 50px;
+}
+h2 {
+  margin-top: 80px;
+  border-style: solid;
+  border-left: 5px;
+  border-right: 5px;
+  margin-left: 150px;
+  margin-right: 300px;
+}
+#preseason {
+  margin-left: 100px;
+  margin-top: 40px;
+  height: 50px;
+  color: rgb(209, 38, 38);
+}
+#mainsurvey {
+  width: 600px;
+  margin-left: 100px;
+}
+#mainsurvey2 {
+  margin-top: 20px;
+}
+.firstmaindiv {
+  margin-top: 20px;
+  border-style: solid;
+  height: 990px;
+}
+#qmaindiv {
+  margin-top: 5px;
+  border-style: solid;
+  border-top: 1px;
+  border-left: 1px;
+  border-right: 1px;
+  border-bottom: 1px;
+}
+#qmaindiv1 {
+  margin-top: 20px;
+  height: 60px;
+  border-style: solid;
+  margin-top: 10px;
+  border-top: 1px;
+  border-left: 1px;
+  border-right: 1px;
+}
+#qmaindiv4 {
+  margin-top: 10px;
+  height: 30px;
+  border-style: solid;
+  margin-top: 10px;
+  border-top: 1px;
+  border-left: 1px;
+  border-right: 1px;
+}
+#qmaindiv5 {
+  height: 20px;
+}
+#qmaindiv6 {
+  height: 30px;
+  border-style: solid;
+  margin-top: 10px;
+  border-top: 1px;
+  border-left: 1px;
+  border-right: 1px;
+}
+#qmaindiv7 {
+  border-style: solid;
+  border-top: 1px;
+  border-left: 1px;
+  border-right: 1px;
+  border-bottom: 1px;
+}
+#qmaindiv8 {
+  height: 30px;
+  border-style: solid;
+  margin-top: 10px;
+  border-top: 1px;
+  border-left: 1px;
+  border-right: 1px;
+}
+#qmaindiv9 {
+  border-style: solid;
+  border-top: 1px;
+  border-left: 1px;
+  border-right: 1px;
+  border-bottom: 1px;
+}
+#qmaindiv10 {
+  height: 30px;
+  border-style: solid;
+  margin-top: 10px;
+  border-top: 1px;
+  border-left: 1px;
+  border-right: 1px;
+}
+#qmaindiv {
+  border-style: solid;
+  border-top: 1px;
+  border-left: 1px;
+  border-right: 1px;
+  border-bottom: 1px;
+}
+#qmaindivtwo {
+  height: 30px;
+  border-style: solid;
+  margin-top: 10px;
+  border-top: 1px;
+  border-left: 1px;
+  border-right: 1px;
+}
+#qmaindivthree {
+  border-style: solid;
+  border-top: 1px;
+  border-left: 1px;
+  border-right: 1px;
+  border-bottom: 1px;
+}
+#qmaindivfour {
+  height: 30px;
+  border-style: solid;
+  margin-top: 10px;
+  border-top: 1px;
+  border-left: 1px;
+  border-right: 1px;
+}
+#qmaindivfive {
+  border-style: solid;
+  border-top: 1px;
+  border-left: 1px;
+  border-right: 1px;
+  border-bottom: 1px;
+}
+#qmaindivsix {
+  height: 30px;
+  border-style: solid;
+  margin-top: 10px;
+  border-top: 1px;
+  border-left: 1px;
+  border-right: 1px;
+}
+#qmaindivseven {
+  border-style: solid;
+  border-top: 1px;
+  border-left: 1px;
+  border-right: 1px;
+  border-bottom: 1px;
+}
+#qmaindiveight {
+  height: 30px;
+  border-style: solid;
+  margin-top: 10px;
+  border-top: 1px;
+  border-left: 1px;
+  border-right: 1px;
+}
+#moreqdivone {
+  border-style: solid;
+  border-top: 1px;
+  border-left: 1px;
+  border-right: 1px;
+  height: 20px;
+}
+#moreqdivone1 {
+  border-style: solid;
+  border-top: 1px;
+  border-left: 1px;
+  border-bottom: 1px;
+  border-right: 1px;
+}
+.moremain {
+  border-style: solid;
+  border-top: 1px;
+  border-left: 1px;
+  border-right: 1px;
+  height: 100px;
+}
+#moreqdivfour {
+  border-style: solid;
+  border-top: 1px;
+  border-left: 1px;
+  border-right: 1px;
+  border-bottom: 1px;
+  margin-top: 10px;
+  height: 20px;
+}
+#moreqdivfour4{
+  border-style: solid;
+  border-top: 1px;
+  border-left: 1px;
+  border-right: 1px;
+  margin-top: 10px;
+  height: 30px;
+
+}
+#moreqdivfive{
+  border-style: solid;
+  border-top: 1px;
+  border-left: 1px;
+  border-right: 1px;
+  border-bottom: 1px;
+  height: 20px;
+}
+#moreqdivfive5{
+  border-style: solid;
+  border-top: 1px;
+  border-left: 1px;
+  border-right: 1px;
+  margin-top: 10px;
+  height: 30px;
+}
+#moreqdivsix{
+  border-style: solid;
+  border-top: 1px;
+  border-left: 1px;
+  border-right: 1px;
+  border-bottom: 1px;
+}
+#moreqdivsix6{
+  border-style: solid;
+  border-top: 1px;
+  border-left: 1px;
+  border-right: 1px;
+  border-left: 1px;
+  height: 30px;
+  margin-top: 10px;
+}
+#moreqdivseven{
+border-style: solid;
+border-top: 1px;
+border-right: 1px;
+border-left: 1px;
+border-bottom: 1px;
+}
+#moreqdivseven7{
+  border-style: solid;
+  border-top: 1px;
+  border-right: 1px;
+  border-left: 1px;
+  height: 30px;
+  margin-top: 10px;
+  border-bottom: 1px;
+}
+button{
+  margin-left: 250px;
+}
+.helloworld{
+  background: rgba(0,0,0,0,7);
+  background-blend-mode: darken;
+}

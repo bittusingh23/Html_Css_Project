@@ -1,0 +1,38 @@
+* {
+  background-color: rgb(58, 145, 167);
+}
+.header {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin-left: 650px;
+  margin-top: 20px;
+}
+a {
+  color: rgb(214, 21, 85);
+  text-decoration: none;
+  margin-left: 30px;
+}
+h3 {
+  width: 70px;
+  margin-top: -20px;
+  margin-left: 30px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Impact,
+    "Arial Narrow Bold", sans-serif;
+}
+.middle {
+  margin-top: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.middleone {
+  align-content: center;
+  justify-content: center;
+  display: flex;
+  margin-top: -20px;
+}
+b {
+  background-color: red;
+}
